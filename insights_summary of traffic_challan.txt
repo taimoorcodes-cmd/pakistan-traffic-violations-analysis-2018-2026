@@ -1,0 +1,141 @@
+
+================================================
+Pakistan Traffic Challan Analysis
+Key Business Insights
+Author: Taimoor Ghalib
+Dataset: 827,700 rows | 2018-2026
+================================================
+
+1. NATIONAL FINANCIAL SUMMARY
+------------------------------
+Total Fines Imposed  = 1,515,639,970 PKR
+Total Collected      = 833,030,731 PKR
+Total Leakage        = 682,609,239 PKR
+Recovery Rate        = 54.96%
+Finding: Pakistan loses over 682 Million
+PKR annually due to uncollected fines.
+Nearly half of all imposed fines remain
+permanently uncollected.
+
+2. THE 55% SYSTEMIC CEILING
+------------------------------
+Every violation type shows 54-55%
+compliance rate regardless of fine amount,
+vehicle type, province, or enforcement
+method.
+Finding: Non-payment is not caused by
+specific violations or locations. It is
+a deeply rooted national infrastructure
+failure affecting the entire collection
+system uniformly.
+
+3. SPEEDING: BIGGEST REVENUE BLEEDER
+------------------------------
+Total Challans  = 165,995
+Leakage         = 160,385,923 PKR
+Compliance Rate = 55.05%
+Finding: Speeding is the single largest
+source of uncollected revenue. Fixing
+speeding fine collections alone would
+recover over 160 Million PKR.
+
+4. KARACHI DOMINATES LEAKAGE
+------------------------------
+Karachi Leakage = 170,033,980 PKR
+Karachi + Speeding = 39,987,977 PKR
+Karachi appears in 4 out of top 5
+leakage hotspots nationwide.
+Finding: Targeting Karachi specifically
+for payment recovery would yield the
+fastest multi-million PKR return.
+
+5. MOTORCYCLES TOP OFFENDERS
+------------------------------
+Total Challans  = 289,448
+Leakage         = 238,595,860 PKR
+Paid Rate       = 55.08%
+Finding: Despite being small vehicles,
+motorcycles are the #1 source of traffic
+violations and financial leakage.
+Combined with cars they account for
+443 Million PKR in lost collections.
+
+6. 136% GROWTH IN VIOLATIONS
+------------------------------
+2018 Challans = 60,023
+2025 Challans = 141,943
+Growth        = 136% increase
+Finding: Traffic violations have more
+than doubled in 8 years. Despite this
+massive enforcement growth the payment
+compliance rate has never improved
+beyond 55% in any single year.
+
+7. PUNJAB LARGEST UNPAID PROVINCE
+------------------------------
+Punjab Unpaid Tickets = 117,211
+Punjab Leakage        = 322,093,026 PKR
+Finding: Punjab holds the highest
+volume of unresolved tickets. A
+targeted digital payment campaign
+in Punjab alone could recover over
+322 Million PKR.
+
+8. CAMERAS CAPTURE MORE BUT COLLECT SAME
+------------------------------
+Camera Tickets  = 330,562 (40%)
+Officer Tickets = 290,300 (35%)
+Camera Compliance = 55.08%
+Officer Compliance = 54.96%
+Finding: Automated cameras generate
+more tickets than physical officers
+but achieve identical collection rates.
+The bottleneck is the payment collection
+system not the detection system.
+
+9. Q2 HIGHEST SEASONAL LEAKAGE
+------------------------------
+Q2 Target Fines  = 414,467,080 PKR
+Q2 Leakage       = 186,901,384 PKR
+Finding: April to June is the peak
+quarter for both enforcement activity
+and financial leakage. Government
+should focus maximum collection
+efforts during this quarter.
+
+10. WEEKDAY RUSH HOUR PROBLEM
+------------------------------
+Weekday Tickets = 130,000 per day
+Weekend Tickets = 90,000 per day
+Weekend speeding = only 27-28% of
+weekday speeding volume.
+Finding: Traffic violations are
+primarily a weekday rush hour problem
+not a weekend leisure problem.
+Deployment of enforcement resources
+on weekday mornings and evenings
+would be most impactful.
+
+================================================
+KEY RECOMMENDATIONS
+================================================
+1. Launch digital payment reminder system
+   targeting Karachi and Punjab first
+   to recover 500M+ PKR fastest.
+
+2. Introduce vehicle registration blocking
+   for unpaid fines to force compliance
+   beyond the 55% ceiling.
+
+3. Scale camera enforcement in Q2
+   (April-June) when violations peak.
+
+4. Create motorcycle-specific fine
+   collection campaigns as they are
+   the single highest risk vehicle class.
+
+5. Investigate why 8 years of enforcement
+   growth has never improved the 55%
+   compliance rate and audit the national
+   payment processing infrastructure.
+================================================
